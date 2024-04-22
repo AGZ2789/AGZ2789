@@ -14,4 +14,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/adan-gomez-9a77a5281
+[linkedin]: https://www.linkedin.com/in/adan-gomez-3735982b8/
