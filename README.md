@@ -1,4 +1,4 @@
-<h1>Hi, I'm Atom, an <a href="https://linkedin.com/in/adan-gomez-9a77a5281">IT Professional</a>☺</h1>
+<h1>Hi, I'm Adam, an <a href="https://linkedin.com/in/adan-gomez-9a77a5281">IT Professional</a>☺</h1>
 
 ![](https://i.imgur.com/waxVImv.png)
 
