@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adam 👋</h1>
 
-IT Professional focused on cloud infrastructure, Windows administration, networking, and technical support.
+IT professional building hands-on experience across Azure cloud infrastructure, data engineering, Windows administration, networking, and technical support.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adan-gomez-3735982b8/)
 
